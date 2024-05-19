@@ -13,7 +13,7 @@ Este vídeo de 8 segundos demonstra um lampejo do potencial e da aplicação das
 ## 🚀 Resultados
 O vídeo pretendia ser um release de uma empresa de tecnologia no qual o aprsentador falaria de forma resumida sobre a empresa.
 
-[LINK PARA O VÍDEO AQUI](https://github.com/gbelarmino/lab-natty-or-not/edit/main/exemplos/First Video.mp4)
+[LINK PARA O VÍDEO AQUI](https://github.com/gbelarmino/lab-natty-or-not/blob/9be8678448c9205e6b73d5a63c7727d6116d4be5/exemplos/First%20Video.mp4)
 
 ## 💭 Reflexão
 Este projeto foi desafiador no tocante ao uso de IA Generativa e suas peculiaridades.
